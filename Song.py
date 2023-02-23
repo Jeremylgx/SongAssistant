@@ -1,3 +1,5 @@
+from Chords import Chords
+
 class Song:
     
     # Liste des accords existants (tuple car non amené à être modifié)
