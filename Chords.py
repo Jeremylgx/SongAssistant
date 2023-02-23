@@ -1,3 +1,10 @@
+"""
+    class Chords
+    
+    Attributs : RootNote, ChordQuality, ChordName, ChordInterval, ChordNotes
+    
+    Méthodes : initChords
+"""
 class Chords:
     
     listNotes = ("Cb","C","C#","Db","D","D#","Eb","E","E#","Fb","F#","Gb","G","G#","Ab","A","A#","Bb","B","B#")
